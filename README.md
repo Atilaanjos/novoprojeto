@@ -25,7 +25,7 @@ Os principais problemas identificados foram:
 * Descoberta tardia de erros durante QA ou em produção.
 * Falta de padronização nas implementações dos desenvolvedores.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Uso da Inteligência Artificial
 
@@ -38,7 +38,7 @@ Posteriormente, o código foi reorganizado em funções para melhorar a manuten�
 
 O uso do Copilot acelerou o desenvolvimento, reduziu o tempo gasto com tarefas repetitivas e auxiliou na organização do código.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Testes Automatizados
 
@@ -52,7 +52,7 @@ Foram desenvolvidos testes automatizados para validar as principais regras de ne
 
 Os testes ajudam a garantir que futuras alterações não quebrem funcionalidades já implementadas.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Automação com GitHub Actions
 
@@ -65,7 +65,7 @@ Essa automação proporciona:
 * Redução de falhas em produção.
 * Maior produtividade da equipe.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Caso Real
 
@@ -76,7 +76,7 @@ quando comparados a equipes sem assistência de IA.
 Além disso, empresas de tecnologia utilizam GitHub Actions para automatizar testes, integração contínua (CI) e validações antes da publicação de novas 
 versões dos sistemas.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Tecnologias Utilizadas
 
@@ -87,7 +87,7 @@ versões dos sistemas.
 * GitHub Actions
 * unittest
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Conclusão
 
