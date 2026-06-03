@@ -17,4 +17,4 @@ jobs:
           python-version: '3.12'
 
       - name: Run Tests
-        run: python -m unittest projetoia.py
+        run: python -m unittest projetofecaf.py
