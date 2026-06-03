@@ -10,7 +10,7 @@ aumentando a produtividade da equipe, melhorando a qualidade do código e automa
 O projeto consiste em um sistema simples de loja desenvolvido em Python, capaz de calcular descontos e juros de acordo com a forma de pagamento 
 escolhida pelo cliente.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Análise do Problema
 
